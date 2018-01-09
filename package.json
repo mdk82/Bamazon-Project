@@ -1,0 +1,23 @@
+{
+  "name": "week-10-homework---mysql",
+  "version": "1.0.0",
+  "description": "MySQL Homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdk82/Week-10-Homework---MySQL.git"
+  },
+  "author": "Michael Klingelberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdk82/Week-10-Homework---MySQL/issues"
+  },
+  "homepage": "https://github.com/mdk82/Week-10-Homework---MySQL#readme",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "mysql": "^2.15.0"
+  }
+}
